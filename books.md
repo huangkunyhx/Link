@@ -12,6 +12,7 @@
 
 ###其他###
 
+- [分布式系统(Distributed System)资料](https://github.com/ty4z2008/Qix/blob/master/ds.md)
 - [Design Patterns](http://www.amazon.cn/Design-Patterns-Elements-of-Reusable-Object-Oriented-Software-Gamma-Erich/dp/0201633612/ref=tmm_hrd_swatch_0?_encoding=UTF8&sr=&qid=)
 - [Catalog of Patterns of Enterprise Application Architecture](http://www.martinfowler.com/eaaCatalog/index.html)
 - [Core J2EE Patterns](http://www.corej2eepatterns.com/index.htm)
